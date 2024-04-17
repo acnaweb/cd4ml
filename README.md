@@ -167,3 +167,5 @@ Continuous Delivery for Machine Learning (CD4ML)
 
 - https://martinfowler.com/articles/cd4ml.html
 - https://www.thoughtworks.com/pt-br/what-we-do/data/cd4ml
+- [CD4ML: Continous Delivery for Machine Learning - Eduardo Santos](https://www.youtube.com/watch?v=2ol_dlVSTfQ)
+- https://odsc.medium.com/continuous-delivery-for-machine-learning-d07f2d0f051
